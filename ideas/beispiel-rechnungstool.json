@@ -1,0 +1,14 @@
+{
+  "name": "Beispiel: Rechnungs- und Mahn-Tool für Freelancer",
+  "slug": "beispiel-rechnungstool",
+  "description": "Testidee: einfaches Tool, das Freelancern Rechnungen schreibt und automatisch Zahlungserinnerungen verschickt.",
+  "years": 3,
+  "subreddits": ["freelance", "smallbusiness"],
+  "search_terms": ["invoice", "late payment"],
+  "relevance_terms": ["invoice", "invoicing", "late payment", "paid late", "payment reminder", "unpaid"],
+  "competitors": ["FreshBooks", "QuickBooks", "Wave", "Bonsai", "Xero", "HoneyBook", "Zoho Invoice"],
+  "competitor_aliases": {"QuickBooks": ["QBO"]},
+  "exclude_terms": [],
+  "per_slice": 50,
+  "max_requests": 80
+}

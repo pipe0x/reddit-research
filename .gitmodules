@@ -1,0 +1,3 @@
+[submodule "reddit-universal-scraper"]
+	path = reddit-universal-scraper
+	url = https://github.com/ksanjeev284/reddit-universal-scraper

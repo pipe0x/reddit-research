@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.env
+!*.env.example
+*.db
+*.sqlite*
+*.log
+
+# Zwischengespeicherte Reddit-Beiträge
+runs/
+
+# Eigene Ideen bleiben privat, nur das Beispiel ist öffentlich
+ideas/*
+!ideas/beispiel-rechnungstool.json
